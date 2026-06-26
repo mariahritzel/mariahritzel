@@ -4,4 +4,4 @@
 
 ## Tecnologias estudadas
 
-Python • HTML • CSS • JavaScript • C# • MySQL
+Python • HTML • CSS • JavaScript • C# • MySQL • React
